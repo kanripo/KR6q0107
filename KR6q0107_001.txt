@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:22.515144
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 大乘開心顯性頓悟真宗論
 #+PROPERTY: CBETA_ID T85n2835
 #+PROPERTY: ID KR6q0107
