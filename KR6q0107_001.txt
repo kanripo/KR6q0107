@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:22.515144
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 大乘開心顯性頓悟真宗論
 #+PROPERTY: CBETA_ID T85n2835
 #+PROPERTY: ID KR6q0107
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2835
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0107_T_000-1278a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0107_T_001-1278a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2835¶
-
- 大乘開心顯性頓悟真宗論¶
+No. 2835¶
+大乘開心顯性頓悟真宗論¶
 ¶
 沙門大照居士慧光集釋¶
 
@@ -127,7 +126,7 @@ No.2835¶
 問曰。既常求無念實想者。緣何事。諸經即說
 <pb:KR6q0107_T_001-1279b>¶
 布施持戒人天之福。豈不是有念法耶。因何¶
-得不同而有差別。令一切學人狐疑不信¶
+得不同而有差別。令一切學人孤疑不信¶
 　答曰。汝莫不信。汝不解事。佛說布施持戒人¶
 天之福者。為眾生多在妄想。佛無量善巧方¶
 便。隨眾生意說妄想法。誘引令趣大乘門。汝¶
